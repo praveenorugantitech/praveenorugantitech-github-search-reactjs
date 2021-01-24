@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/praveenorugantitech-github-search-reactjs/static/css/main.8e8f26b7.chunk.css",
+    "main.js": "/praveenorugantitech-github-search-reactjs/static/js/main.017b0ab2.chunk.js",
+    "runtime-main.js": "/praveenorugantitech-github-search-reactjs/static/js/runtime-main.0c538443.js",
+    "static/css/2.100b230f.chunk.css": "/praveenorugantitech-github-search-reactjs/static/css/2.100b230f.chunk.css",
+    "static/js/2.910cb4fa.chunk.js": "/praveenorugantitech-github-search-reactjs/static/js/2.910cb4fa.chunk.js",
+    "index.html": "/praveenorugantitech-github-search-reactjs/index.html",
+    "precache-manifest.349ed20481437423a3d99c52a328e97c.js": "/praveenorugantitech-github-search-reactjs/precache-manifest.349ed20481437423a3d99c52a328e97c.js",
+    "service-worker.js": "/praveenorugantitech-github-search-reactjs/service-worker.js",
+    "static/js/2.910cb4fa.chunk.js.LICENSE.txt": "/praveenorugantitech-github-search-reactjs/static/js/2.910cb4fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c538443.js",
+    "static/css/2.100b230f.chunk.css",
+    "static/js/2.910cb4fa.chunk.js",
+    "static/css/main.8e8f26b7.chunk.css",
+    "static/js/main.017b0ab2.chunk.js"
+  ]
+}
