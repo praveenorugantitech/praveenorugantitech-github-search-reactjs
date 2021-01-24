@@ -5,5 +5,5 @@
 </div>
 
 
-[Live Demo](https://praveenoruganti-github-search.firebaseapp.com/)
+[Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-github-search-reactjs/)
 
