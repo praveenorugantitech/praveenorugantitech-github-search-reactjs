@@ -1,6 +1,8 @@
 # GitHub Search developed using React JS
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-projects/master/praveenorugantitech-github-search/src/images/screenshot.PNG "GitHub Search")
+<div>
+<img align="right" width="100%"  src="./src/images/screenshot.PNG" />
+</div>
 
 
 [Live Demo](https://praveenoruganti-github-search.firebaseapp.com/)
