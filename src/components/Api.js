@@ -19,8 +19,8 @@ export default function API() {
 
     const searchProfile = () => {
 
-        Axios.get(`https://api.github.com/users/${userName}?clientId=${clientId}
-                &clientSecret=${clientSecret}`)
+        Axios.get(`https://api.github.com/users/${userName}?clientId=${process.env.REACT_APP_CLIENTID}
+                &clientSecret=${process.env.REACT_APP_CLIENTSECRET}`)
             .then((response) => {
                 setProfile(response.data);
             })
@@ -42,7 +42,7 @@ export default function API() {
     }
 
     return (
-        <>          
+        <>
             <div className="container mt-3">
                 <div className="row">
                     <div className="col">

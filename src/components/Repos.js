@@ -11,9 +11,9 @@ const Repos = (props) => {
                 <div className="card-body">
                     <ul className="list-group">
                         {
-                            props.repos.map((repo) => {
+                            props.repos.map((repo,index) => {
                                 return (
-                                    <li className="list-group-item">
+                                    <li key={index} className="list-group-item">
                                         <a href={repo.html_url} rel="noopener noreferrer" target="_blank">{repo.name}</a>
                                         <span className="badge badge-success mx-2">{repo.stargazers_count} Stars</span>
                                         <span className="badge badge-warning mx-2">{repo.watchers_count} Watchers</span>
