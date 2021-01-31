@@ -5,7 +5,9 @@
 
 ### App Screenshots
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-github-search-reactjs/master/src/images/screenshot.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-github-search-reactjs/master/src/images/screenshot1.PNG)
+
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-github-search-reactjs/master/src/images/screenshot2.PNG)
 
 
 ### Live Demo
